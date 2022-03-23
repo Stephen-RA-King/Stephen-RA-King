@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a classically trained Scientist with a Degree in Biochemsity and at one time a medical resaercher. 
+
 
 
 ## 🔧 Technologies & Tools

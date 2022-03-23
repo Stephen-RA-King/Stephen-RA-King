@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a classically trained Scientist with a Degree in Biochemsity and at one time a medical resaercher. 
+Having once delved into the 8 bit world as a 6502 Assembly language programmer I am now a fully commited Software Developer (Primarily Python).
 
 
 

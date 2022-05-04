@@ -14,12 +14,6 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog
-
-
-
 
 
 ## &#x1f4c8; GitHub Stats
@@ -65,7 +59,9 @@ Apart from coding, I also maintain a blog
 
 
 
+## &#x270d; Linkedin
 
+https://www.linkedin.com/in/stephen-k-3a4644210/
 
 
 

@@ -32,6 +32,10 @@ Apart from coding, I also maintain a blog
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
 </a>
 
+<a href="https://github.com/Stephen-RA-King/pizazz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/Stephen-RA-King/pynball">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynball&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>

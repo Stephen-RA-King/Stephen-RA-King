@@ -4,7 +4,11 @@
 <a href="https://linkedin.com/in/stephen-k-3a4644210">
   <img align="left" alt="Stephen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
 <br />
+
+
 <span style="color:;font-weight:700;font-size:18px">
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
@@ -14,8 +18,9 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 ## &#128295; Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/cisco-Networking-informational?style=flat&logo=cisco&logoColor=white&color=bc422b)
+![](https://img.shields.io/badge/IOT-RaspberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=1100ff)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=deff00)
-![](https://img.shields.io/badge/Code-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=1100ff)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=1100ff)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e200ff)
 ![](https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=ffae00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=bc422b)

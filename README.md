@@ -50,10 +50,6 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Stephen-RA-King/pizazz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/Stephen-RA-King/pynball">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynball&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -61,6 +57,11 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 <a href="https://github.com/Stephen-RA-King/cc_template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=cc_template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/Stephen-RA-King/pizazz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!-- links to social media icons -->
 

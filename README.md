@@ -1,7 +1,14 @@
 # Hi there 👋
-I am a classically trained Scientist with a Degree in Biochemsity and at one time a medical resaercher. 
-Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Support Engineer, I am now a fully commited Software Developer (Primarily Python).
 
+
+<a href="https://linkedin.com/in/stephen-k-3a4644210">
+  <img align="left" alt="Stephen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+<span style="color:;font-weight:700;font-size:18px">
+I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
+Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
+</span>
 
 
 ## &#128295; Technologies & Tools
@@ -15,6 +22,17 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=deff00)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1100ff)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+
+- 📫 How to reach me: If you have a requirement for a Python developer feel free to contact me [email](mailto:stephen.ra.king@gmail.com)
+
+- ⚡ Fun fact: I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry pi 
+ 
+
+
+
+
+
 
 
 ## &#x1f4c8; GitHub Stats
@@ -60,9 +78,9 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 
 
 
-## &#x270d; Linkedin
 
-https://www.linkedin.com/in/stephen-k-3a4644210/
+
+
 
 
 

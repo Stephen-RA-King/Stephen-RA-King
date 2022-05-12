@@ -2,7 +2,7 @@
 
 
 <a href="https://linkedin.com/in/stephen-k-3a4644210">
-  <img align="left" alt="Stephen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Stephen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
@@ -14,7 +14,6 @@ I am a classically trained Scientist with Bachelors & Masters Degrees in Biochem
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
 </span>
 
-&#0A66C2;
 
 
 ## &#128295; Technologies & Tools

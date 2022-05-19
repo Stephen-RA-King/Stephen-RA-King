@@ -9,7 +9,8 @@
 <img align="left" alt="Stephen's GitHub" width="28px" src="files/github.svg" style=”margin: 1px 1px 1px 1px;” />
 </a>
 </p>
-</br>
+<br />
+  
 
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).

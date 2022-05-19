@@ -1,6 +1,6 @@
 <p>
 <a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
-<img align="left" alt="Stephen's LinkedIN" width="800px" src="files/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
+<img align="left" alt="Stephen's LinkedIN" width="800px" src="assets/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
 </a>  
 <br><br><br><br><br>
 
@@ -16,7 +16,8 @@
 </a>
 </p>
 <br>
-<br>
+<br>  
+
 
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).

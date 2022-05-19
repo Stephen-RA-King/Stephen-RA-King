@@ -1,3 +1,17 @@
+
+
+<p>
+<a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
+<img align="left" alt="Stephen's LinkedIN" width="800px" src="files/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
+</a>  
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 # Hi there 👋
 
 <p>

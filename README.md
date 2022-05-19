@@ -1,18 +1,19 @@
 # Hi there 👋
 
-
+<p>
 <a href="https://linkedin.com/in/stephen-k-3a4644210">
-<img align="left" alt="Stephen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Stephen's LinkedIN" width="28px" src="files/linkedin.svg" style=”margin: 1px 1px 1px 1px;” />
 </a>
 
+<a href="https://github.com/Stephen-RA-King/Stephen-RA-King">
+<img align="left" alt="Stephen's GitHub" width="28px" src="files/github.svg" style=”margin: 1px 1px 1px 1px;” />
+</a>
+</p>
 
-<br />
 
-
-<span style="color:;font-weight:700;font-size:18px">
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
-</span>
+
 
 
 

@@ -1,16 +1,8 @@
-
-
 <p>
 <a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
 <img align="left" alt="Stephen's LinkedIN" width="800px" src="files/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
 </a>  
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+<br><br><br><br><br>
 
 # Hi there 👋
 
@@ -28,8 +20,6 @@
 
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
-
-
 
 
 ## &#128295; Technologies & Tools
@@ -50,10 +40,6 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 
 - ⚡ Fun fact: I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry pi 
  
-
-
-
-
 
 
 
@@ -79,9 +65,9 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-
-
+<a href="https://github.com/Stephen-RA-King/pynnacle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 

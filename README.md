@@ -8,11 +8,11 @@
 
 <p>
 <a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
-<img align="left" alt="Stephen's LinkedIN" width="28px" src="files/linkedin.svg" style=”margin: 1px 1px 1px 1px;” />
+<img align="left" alt="Stephen's LinkedIN" width="40px" src="assets/linkedin.png" style=”margin: 1px 1px 1px 1px;” />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/Stephen-RA-King" target="_blank">
-<img align="left" alt="Stephen's GitHub" width="28px" src="files/github.svg" style=”margin: 1px 1px 1px 1px;” />  
+<img align="left" alt="Stephen's GitHub" width="40px" src="assets/github.png" style=”margin: 1px 1px 1px 1px;” />  
 </a>
 </p>
 <br>

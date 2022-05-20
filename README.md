@@ -1,22 +1,15 @@
 <p>
 <a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
-<img align="left" alt="Stephen's LinkedIN" width="800px" src="assets/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
+<img align="left" alt="Stephen's LinkedIN" width="900px" src="assets/sk_header.svg" style=”margin: 1px 1px 1px 1px;” />
 </a>  
 <br><br><br><br><br>
 
 # Hi there 👋
 
-<p>
-<a href="https://linkedin.com/in/stephen-k-3a4644210" target="_blank">
-<img align="left" alt="Stephen's LinkedIN" width="40px" src="assets/linkedin.png" style=”margin: 1px 1px 1px 1px;” />
-</a>
-
-<a href="https://github.com/Stephen-RA-King/Stephen-RA-King" target="_blank">
-<img align="left" alt="Stephen's GitHub" width="40px" src="assets/github.png" style=”margin: 1px 1px 1px 1px;” />  
-</a>
-</p>
-<br>
-<br>  
+[![](assets/linkedin.png)](https://linkedin.com/in/stephen-k-3a4644210)
+[![](assets/github.png)](https://github.com/Stephen-RA-King/Stephen-RA-King)
+[![](assets/www.png)](https://www.Stephen-RA-King)
+[![](assets/email.png)](mailto:stephen.ra.king@gmail.com)
 
 
 I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  

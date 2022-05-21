@@ -1,19 +1,19 @@
 
-[<img src="assets/header2.svg" width="900em" align="center" alt="" title=""/>](mailto:stephen.ra.king@gmail.com)
+[<img src="assets/header2.svg" width="900em" align="center" alt="" title=""/>]()
 
-<p style="text-align: center;">
+<div align="center">
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/stephen-k-3a4644210)
 [<img src="assets/github.png" height="40em" align="center" />](https://github.com/Stephen-RA-King/Stephen-RA-King)
 [<img src="assets/www.png" height="40em" align="center" />](https://www.Stephen-RA-King)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:stephen.ra.king@gmail.com)
 
-</p>
+</div>
 
 # Hi there 👋
 
 
-I am a classically trained Scientist with Bachelors & Masters Degrees in Biochemsity and at one time a medical researcher.  
+I am a classically trained Scientist with BSc and MSc Degrees in Biochemsity and at one time a medical researcher.  
 Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
 
 

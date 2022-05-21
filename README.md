@@ -1,5 +1,5 @@
 
-[<img src="assets/sk_header.svg" width="900em" align="center" alt="" title=""/>](mailto:stephen.ra.king@gmail.com)
+[<img src="assets/header2.svg" width="900em" align="center" alt="" title=""/>](mailto:stephen.ra.king@gmail.com)
 
 <p style="text-align: center;">
 

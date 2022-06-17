@@ -5,16 +5,17 @@
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/stephen-k-3a4644210)
 [<img src="assets/github.png" height="40em" align="center" />](https://github.com/Stephen-RA-King/Stephen-RA-King)
-[<img src="assets/www.png" height="40em" align="center" />](https://www.Stephen-RA-King)
+[<img src="assets/www.png" height="40em" align="center" />](https://www.justpython.tech)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:stephen.ra.king@gmail.com)
 
 </div>
 
 # Hi there 👋
 
-
-I am a classically trained Scientist with BSc and MSc Degrees in Biochemsity and at one time a medical researcher.  
-Having once delved into the 8 bit world as a 6502 Assembly language programmer, then becoming a Cisco Network Engineer, I am now a fully commited Software Developer (Primarily Python).
+My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc degress in Biochemistry and Chemistry.
+I was at one time a medical researcher but sadly decided there was no future in pure science. 
+My first foray into I.T. was when I was at University. To earn some extra spondulicks I took a temporary summer role converting games from the spectrum onto the commodore 64 using
+6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully commited Software Developer (Primarily Python).
 
 
 ## &#128295; Technologies & Tools
@@ -33,7 +34,8 @@ Having once delved into the 8 bit world as a 6502 Assembly language programmer, 
 
 - 📫 How to reach me: If you have a requirement for a Python developer feel free to contact me - [email](mailto:stephen.ra.king@gmail.com)
 
-- ⚡ Fun fact: I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry pi 
+- ⚡ Fun fact: I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry Pi  and other SBC's.
+ I marvel at the way sensors and actuators bring another dimension to my Python creations.
  
 
 

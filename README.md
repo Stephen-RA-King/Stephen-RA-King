@@ -12,10 +12,7 @@
 
 # Hi there 👋
 
-_**My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc degress in Biochemistry and Chemistry.
-I was at one time a medical researcher but sadly decided there was no future in pure science. 
-My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the spectrum onto the commodore 64 using
-6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully commited Software Developer (Primarily Python).**_
+#### My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc degress in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the spectrum onto the commodore 64 using 6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully commited Software Developer (Primarily Python).
 
 
 

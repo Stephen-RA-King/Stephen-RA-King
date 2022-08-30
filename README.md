@@ -54,9 +54,7 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 </a>  
 
 
-<a href="https://github.com/Stephen-RA-King/piptools-sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=piptools-sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+
 
 
 <a href="https://github.com/Stephen-RA-King/pynball">
@@ -70,6 +68,11 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 <a href="https://github.com/Stephen-RA-King/pynnacle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+
+<a href="https://github.com/Stephen-RA-King/piptools-sync">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=piptools-sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 
 

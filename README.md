@@ -12,9 +12,9 @@
 
 # Hi there 👋
 
-<span style=" font-size:1.2em;">
-My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc degress in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the spectrum onto the commodore 64 using 6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully commited Software Developer (Primarily Python).
-</span>
+
+My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully committed Software Engineer (Primarily Python).
+
 
 
 ## &#128295; Technologies & Tools
@@ -34,7 +34,7 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 
 - I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry Pi  and other SBC's.
  I marvel at the way sensors and actuators bring another dimension to my Python creations.
-- I am a keen member of the maker community and utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduinos, PyBoards, ESP8266, ESP32 etc.
+- I am a keen member of the maker community and utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduino, PyBoard, ESP8266, ESP32 etc.
 with languages like [MicroPython](https://micropython.org/), [CircuitPython](https://circuitpython.org/) and C.
 
 

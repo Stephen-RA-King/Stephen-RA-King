@@ -31,11 +31,12 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
-- 📫 How to reach me: If you have a requirement for a Python developer feel free to contact me - [email](mailto:stephen.ra.king@gmail.com)
 
-- ⚡ Fun fact: I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry Pi  and other SBC's.
+- I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry Pi  and other SBC's.
  I marvel at the way sensors and actuators bring another dimension to my Python creations.
- 
+- I am a keen member of the maker community and utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduinos, PyBoards, ESP8266, ESP32 etc.
+with languages like [MicroPython](https://micropython.org/), [CircuitPython](https://circuitpython.org/) and C.
+
 
 
 

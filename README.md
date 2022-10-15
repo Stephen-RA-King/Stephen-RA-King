@@ -13,7 +13,7 @@
 # Hi there 👋
 
 
-My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully committed Software Engineer (Primarily Python).
+My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully committed Software Engineer (Primarily Python).
 
 
 
@@ -31,13 +31,16 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
+### A bit more...
 
-- I consider myself somewhat of an inventor and love finding new and innovative ways to use the Raspberry Pi  and other SBC's.
- I marvel at the way sensors and actuators bring another dimension to my Python creations.
-- I am a keen member of the maker community and utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduino, PyBoard, ESP8266, ESP32 etc.
+- Being somewhat of an inventor, I love finding new and innovative ways to use the 
+Raspberry Pi and other SBC's.  I marvel at the way sensors and actuators bring another dimension to my Python creations.
+- As a keen member of the maker community I utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduino, PyBoard, ESP8266, ESP32 etc.
 with languages like [MicroPython](https://micropython.org/), [CircuitPython](https://circuitpython.org/) and C.
-
-
+- I enjoy electronics; designing PCB's, fixing, reverse engineering etc. Recently saved myself a fortune by repairing two 'dead' Synology NAS drives. The component
+failures were identified by 'hacking' the firmware.  These drives would have been destined for the scrap pile.
+- Sadly, life if short. So automation is the key. I try to automate as much as possible (at work and home). For example, a recent endevour to source a Sony PS5 was proving fruitless. However, with the aid of web scraping
+  (utilising Selenium, OpenCV, Beautiful Soup and Scrapy) I was able to snag one within days.  I know this is an abuse of my Python powers...I'm keeping this one in my private repository for obvious reasons.
 
 
 ## &#x1f4c8; GitHub Stats

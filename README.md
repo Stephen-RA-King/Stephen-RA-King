@@ -7,6 +7,7 @@
 [<img src="assets/github.png" height="40em" align="center" />](https://github.com/Stephen-RA-King/Stephen-RA-King)
 [<img src="assets/www.png" height="40em" align="center" />](https://www.justpython.tech)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:stephen.ra.king@gmail.com)
+[<img src="assets/cv.png" height="40em" align="center" />](https://justpython.tech/wp-content/uploads/CV.pdf)
 
 </div>
 
@@ -28,7 +29,7 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=bc422b)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=deff00)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1100ff)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
 
 
 ### A bit more...

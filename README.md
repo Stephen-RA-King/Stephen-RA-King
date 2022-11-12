@@ -4,7 +4,6 @@
 <div align="center">
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://linkedin.com/in/stephen-k-3a4644210)
-[<img src="assets/github.png" height="40em" align="center" />](https://github.com/Stephen-RA-King/Stephen-RA-King)
 [<img src="assets/www.png" height="40em" align="center" />](https://www.justpython.tech)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:stephen.ra.king@gmail.com)
 [<img src="assets/cv.png" height="40em" align="center" />](https://justpython.tech/wp-content/uploads/CV.pdf)

@@ -37,10 +37,11 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 Raspberry Pi and other SBC's.  I marvel at the way sensors and actuators bring another dimension to my Python creations.
 - As a keen member of the maker community I utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduino, PyBoard, ESP8266, ESP32 etc.
 with languages like [MicroPython](https://micropython.org/), [CircuitPython](https://circuitpython.org/) and C.
-- I enjoy electronics; designing PCB's, fixing, reverse engineering etc. Recently saved myself a fortune by repairing two 'dead' Synology NAS drives. The component
+- I enjoy electronics; designing PCB's, soldering, fixing, reverse engineering etc. Recently saved myself a fortune by repairing two 'dead' Synology NAS drives. The component
 failures were identified by 'hacking' the firmware.  These drives would have been destined for the scrap pile.
 - Sadly, life if short. So automation is the key. I try to automate as much as possible (at work and home). For example, a recent endevour to source a Sony PS5 was proving fruitless. However, with the aid of web scraping
   (utilising Selenium, OpenCV, Beautiful Soup and Scrapy) I was able to snag one within days.  I know this is an abuse of my Python powers...I'm keeping this one in my private repository for obvious reasons.
+- When I'm not coding, inventing, soldering and welding I can usually be found golfing. It's suprisingly how cathartic whacking a little ball with a stick can be.
 
 
 ## &#x1f4c8; GitHub Stats

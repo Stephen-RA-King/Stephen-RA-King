@@ -7,7 +7,7 @@
 [<img src="assets/www.png" height="40em" align="center" />](https://www.justpython.tech)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
 [<img src="assets/cv.png" height="40em" align="center" />](https://justpython.tech/wp-content/uploads/CV.pdf)
-
+![](https://komarev.com/ghpvc/?username=stephen-ra-king&color=blue&style=for-the-badge)
 </div>
 
 # Hi there 👋

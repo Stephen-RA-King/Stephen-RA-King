@@ -37,6 +37,7 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1100ff)
 
 
+<img align="right" alt="GIF" src="https://github.com/stephen-ra-king/stephen-ra-king/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 ### A bit more...
 

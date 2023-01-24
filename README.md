@@ -56,37 +56,37 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Stephen-RA-King/Stephen-RA-King">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-RA-King&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/top-langs/?username=Stephen-RA-King&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/Stephen-RA-King">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/cc_template">
-  <img align="center" src="github-readme-stats-three-smoky-35.vercel.app/api/pin/?username=Stephen-RA-King&repo=cc_template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=cc_template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 
 <a href="https://github.com/Stephen-RA-King/piptools-sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=piptools-sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=piptools-sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 
 <a href="https://github.com/Stephen-RA-King/pynball">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynball&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynball&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 <a href="https://github.com/Stephen-RA-King/pizazz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pizazz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/pynnacle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/burden">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stephen-RA-King&repo=burden&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=burden&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 

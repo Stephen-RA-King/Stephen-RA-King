@@ -20,7 +20,7 @@
 # Hi there 👋
 
 
-My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role converting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully committed Software Engineer (Primarily Python).
+My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role porting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer, QA Automation, DevOps automation and finally now a fully committed Software Engineer (Primarily Python).
 
 
 

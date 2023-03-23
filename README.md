@@ -43,9 +43,9 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 ### A bit more...
 
 - Being somewhat of an inventor, I love finding new and innovative ways to use the 
-Raspberry Pi and other SBC's.  I marvel at the way sensors and actuators bring another dimension to my Python creations.
+Raspberry Pi and other [SBC's][sbc_tt].  I marvel at the way sensors and actuators bring another dimension to my Python creations.
 - As a keen member of the maker community I utilize many flavours of SBC's and microcontrollers in my IOT projects including Arduino, PyBoard, ESP8266, ESP32 etc.
-with languages like [MicroPython](https://micropython.org/), [CircuitPython](https://circuitpython.org/) and C.
+with languages like [**MicroPython**](https://micropython.org/), [**CircuitPython**](https://circuitpython.org/) and C.
 - I enjoy electronics; designing PCB's, soldering, fixing, reverse engineering etc. Recently saved myself a fortune by repairing two 'dead' Synology NAS drives. The component
 failures were identified by 'hacking' the firmware.  These drives would have been destined for the scrap pile.
 - Sadly, life if short. So automation is the key. I try to automate as much as possible (at work and home). For example, a recent endeavour to source a Sony PS5 was proving fruitless. However, with the aid of web scraping
@@ -90,6 +90,10 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
 </a>
 
 
+
+
+<!-- Markdown link & img dfn's -->
+[sbc_tt]: ## "Single Board Computer"
 
 
 

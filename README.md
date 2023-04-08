@@ -26,7 +26,6 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 
 
 
-
 ## &#128295; Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/cisco-Networking-informational?style=flat&logo=cisco&logoColor=white&color=bc422b)

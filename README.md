@@ -6,9 +6,11 @@
 <div align="center">
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
-[<img src="assets/www.png" height="40em" align="center" />](https://www.justpython.tech)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
-[<img src="assets/cv.png" height="40em" align="center" />](https://justpython.tech/wp-content/uploads/CV.pdf)
+[<img src="assets/cv.png" height="40em" align="center" />](https://stephen-ra-king.github.io/cv/)
+[<img src="assets/dev.png" height="40em" align="center" />](https://dev.to/stephenraking)
+[<img src="assets/docker.png" height="40em" align="center" />](https://hub.docker.com/search?q=sraking)
+[<img src="assets/www.png" height="40em" align="center" />](https://stephen-ra-king.github.io/justpython/)
 
 </div>
 

@@ -28,7 +28,7 @@ My name is Stephen King (no not that one!).  I am a classically trained scientis
 
 
 
-## &#128295; Technologies & Tools
+## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/cisco-Networking-informational?style=flat&logo=cisco&logoColor=white&color=bc422b)
 ![](https://img.shields.io/badge/IOT-RaspberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=1100ff)
@@ -56,7 +56,7 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
 - When I'm not coding, inventing, soldering and welding I can usually be found golfing. It's surprising how cathartic whacking a little ball with a stick can be.
 
 
-### &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/Stephen-RA-King/Stephen-RA-King">
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/top-langs/?username=Stephen-RA-King&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -66,10 +66,12 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
 </a>
 
+## 🔥 Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stephen-ra-king&theme=dark)](https://git.io/streak-stats)
 
 
-### Some of my work
+## 💻 Some of my projects
 Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
 
 
@@ -101,7 +103,12 @@ Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+## 📈 Last 30 Day contributions
+
 [![](https://github-readme-activity-graph.vercel.app/graph?username=stephen-ra-king&theme=github)](https://github.com/stephen-ra-king/github-readme-activity-graph)
+
+## 📈 Yaerly contributions
+
 
 <!-- Markdown link & img dfn's -->
 [sbc_tt]: ## "Single Board Computer"

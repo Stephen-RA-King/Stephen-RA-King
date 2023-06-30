@@ -107,7 +107,7 @@ Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=stephen-ra-king&theme=github)](https://github.com/stephen-ra-king/github-readme-activity-graph)
 
-## 📈 Yaerly contributions
+## 📈 Yearly contributions
 
 
 <!-- Markdown link & img dfn's -->

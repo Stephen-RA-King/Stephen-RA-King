@@ -66,6 +66,8 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api?username=Stephen-RA-King&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Stephen's GitHub Stats" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stephen-ra-king&theme=dark)](https://git.io/streak-stats)
+
 
 ### Some of my work
 Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
@@ -99,7 +101,7 @@ Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynnacle&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+[![](https://github-readme-activity-graph.vercel.app/graph?username=stephen-ra-king&theme=github)](https://github.com/stephen-ra-king/github-readme-activity-graph)
 
 <!-- Markdown link & img dfn's -->
 [sbc_tt]: ## "Single Board Computer"
@@ -110,8 +112,6 @@ Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
 [scrapy_url]: https://github.com/scrapy/scrapy
 [selenium_url]: https://github.com/SeleniumHQ/selenium
 [opencv_url]: https://github.com/opencv/opencv
-
-
 
 
 <!-- Resources -->

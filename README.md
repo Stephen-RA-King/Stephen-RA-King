@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=237AA0&center=true&vCenter=true&width=550&lines=Hi%2C+my+name+is+Stephen+King;Thank+you+for+visiting+my+GitHub+profile;I+use+Python+for+nearly+everything." alt="Typing SVG" /></a>
+
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
 [<img src="assets/cv.png" height="40em" align="center" />](https://stephen-ra-king.github.io/cv/)
@@ -24,7 +26,7 @@
 # Hi there 👋
 
 
-My name is Stephen King (no not that one!).  I am a classically trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role porting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer (at BT and other Telcos and ISP's), QA Automation, DevOps automation and now finally, a fully committed Software Engineer (Primarily Python).
+I am a classically & conventionally trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role porting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer (at BT and other Telcos and ISP's), QA Automation, DevOps automation and now finally, a fully committed Software Engineer (Primarily Python).
 
 
 

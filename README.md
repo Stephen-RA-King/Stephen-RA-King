@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=237AA0&center=true&vCenter=true&width=550&lines=Hi%2C+my+name+is+Stephen+King;Thank+you+for+visiting+my+GitHub+profile;I+use+Python+for+nearly+everything." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=237AA0&center=true&vCenter=true&width=550&lines=Welcome. Thank+you+for+visiting+my+GitHub+profile;I+use+Python+for+nearly+everything." alt="Typing SVG" /></a>
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
 [<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
@@ -20,6 +20,9 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=stephen-ra-king&color=blue&style=for-the-badge)
+
+[![DOI](https://zenodo.org/badge/473230283.svg)](https://zenodo.org/badge/latestdoi/473230283)
+
 
 </div>
 
@@ -56,6 +59,10 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
 - Sadly, life if short. So automation is the key. I try to automate as much as possible (at work and home). For example, a recent endeavour to source a Sony PS5 was proving fruitless. However, with the aid of web scraping
   (utilising [**Selenium**][selenium_url], [**OpenCV**][opencv_url], [**Beautiful Soup**][beautiful_soup_url] and [**Scrapy**][scrapy_url]) I was able to snag one within days.  I know this is an abuse of my Python powers...I'm keeping this one in my private repository for obvious reasons.
 - When I'm not coding, inventing, soldering and welding I can usually be found golfing. It's surprising how cathartic whacking a little ball with a stick can be.
+
+
+
+
 
 
 ## 📈 GitHub Stats

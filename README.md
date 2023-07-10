@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=237AA0&center=true&vCenter=true&width=550&lines=Welcome. Thank+you+for+visiting+my+GitHub+profile;I+use+Python+for+nearly+everything." alt="Typing SVG" /></a>
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
-[<img src="assets/email.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
+[<img src="assets/email2.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
 [<img src="assets/cv.png" height="40em" align="center" />](https://stephen-ra-king.github.io/cv/)
 [<img src="assets/dev.png" height="40em" align="center" />](https://dev.to/stephenraking)
 [<img src="assets/docker.png" height="40em" align="center" />](https://hub.docker.com/search?q=sraking)
@@ -61,7 +61,7 @@ failures were identified by 'hacking' the firmware.  These drives would have bee
 - When I'm not coding, inventing, soldering and welding I can usually be found golfing. It's surprising how cathartic whacking a little ball with a stick can be.
 
 
-
+### ![](assets/meow_code_.gif)  Thanks for reading ![](assets/meow_party_.gif)
 
 
 

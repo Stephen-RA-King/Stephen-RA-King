@@ -1,5 +1,5 @@
 
-[<img src="assets/header2.svg" width="900em" align="center" alt="" title=""/>](https://github.com/Stephen-RA-King/Stephen-RA-King)
+[<img src="assets/header3.svg" width="900em" align="center" alt="" title=""/>](https://github.com/Stephen-RA-King/Stephen-RA-King)
 
 <base target="_blank">
 
@@ -21,7 +21,8 @@
 
 ![](https://komarev.com/ghpvc/?username=stephen-ra-king&color=blue&style=for-the-badge)
 
-[![DOI](https://zenodo.org/badge/473230283.svg)](https://zenodo.org/badge/latestdoi/473230283)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8118240.svg)](https://doi.org/10.5281/zenodo.8118240)
+
 
 
 </div>
@@ -29,7 +30,7 @@
 # Hi there 👋
 
 
-I am a classically & conventionally trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. My first foray into commercial I.T. was when I was at University. To earn some extra funding I took a temporary summer role porting games from the [Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) onto the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) using 6502 assembly language (yes, I'm that old!).  My I.T. career continued as a Cisco qualified network support and design engineer (at BT and other Telcos and ISP's), QA Automation, DevOps automation and now finally, a fully committed Software Engineer (Primarily Python).
+I am a classically & conventionally trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. I bagan my I.T. career as a Cisco qualified network support and design engineer (at BT and other Telcos and ISP's), QA Automation, DevOps automation and now finally, a fully committed Software Engineer (Primarily Python).
 
 
 

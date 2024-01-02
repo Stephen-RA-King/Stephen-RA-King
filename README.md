@@ -1,5 +1,5 @@
 
-[<img src="assets/header4.svg" width="900em" align="center" alt="" title=""/>](https://github.com/Stephen-RA-King/Stephen-RA-King)
+[<img src="assets/header4.png" width="900em" align="center" alt="" title=""/>](https://github.com/Stephen-RA-King/Stephen-RA-King)
 
 <base target="_blank">
 

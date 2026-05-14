@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=237AA0&center=true&vCenter=true&width=550&lines=Welcome. Thank+you+for+visiting+my+GitHub+profile;I+use+Python+for+nearly+everything." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto%2BCondensed&size=25&duration=4000&pause=600&center=true&vCenter=true&width=700&height=61&lines=Welcome.++Thank+you+for+visiting+my+GitHub+Profile.)](https://git.io/typing-svg)
+
+
 
 [<img src="assets/linkedin.png" height="40em" align="center" />](https://www.linkedin.com/in/sr-king)
 [<img src="assets/email2.png" height="40em" align="center" />](mailto:sking.github@gmail.com)
@@ -30,8 +32,7 @@
 # Hi there 👋
 
 
-I am a classically & conventionally trained scientist with BSc. and MSc. degrees in Biochemistry and Chemistry. I was at one time a medical researcher but sadly decided there was no future in pure science. I bagan my I.T. career as a Cisco qualified network support and design engineer (at BT and other Telcos and ISP's), QA Automation, DevOps automation and now finally, a fully committed Software Engineer (Primarily Python).
-
+Scientist turned network engineer turned developer — my career has taken the scenic route. Armed with BSc. and MSc. degrees in Biochemistry and Chemistry, I once called medical research home before deciding pure science wasn't my final destination. A Cisco qualification kicked off my I.T. chapter at BT and beyond, spanning network design, QA Automation and DevOps — until Python got its hooks into me. These days I'm a fully committed Software Engineer, and the lab coat is firmly retired.
 
 
 ## 🛠️ Technologies & Tools
@@ -57,8 +58,7 @@ Raspberry Pi and other [SBC's][sbc_tt].  I marvel at the way sensors and actuato
 with languages like [**MicroPython**](https://micropython.org/), [**CircuitPython**](https://circuitpython.org/) and C.
 - I enjoy electronics; designing [PCB's][pcb_tt], soldering, fixing, reverse engineering etc. Recently saved myself a fortune by repairing two 'dead' Synology [NAS][nas_tt] drives. The component
 failures were identified by 'hacking' the firmware.  These drives would have been destined for the scrap pile.
-- Sadly, life if short. So automation is the key. I try to automate as much as possible (at work and home). For example, a recent endeavour to source a Sony PS5 was proving fruitless. However, with the aid of web scraping
-  (utilising [**Selenium**][selenium_url], [**OpenCV**][opencv_url], [**Beautiful Soup**][beautiful_soup_url] and [**Scrapy**][scrapy_url]) I was able to snag one within days.  I know this is an abuse of my Python powers...I'm keeping this one in my private repository for obvious reasons.
+- Sadly, life is short. So automation is the key. I try to automate as much as possible (at work and home). When securing tickets to a sold-out show felt like an Olympic sport, I put my Python powers to work — combining web scraping (utilising [Selenium][selenium_url], [OpenCV][opencv_url], [Beautiful Soup][beautiful_soup_url] and [Scrapy][scrapy_url]) to monitor drops and beat the bots at their own game. Ethically questionable? Perhaps. Effective? Absolutely. This one lives quietly in a private repository.
 - When I'm not coding, inventing, soldering and welding I can usually be found golfing. It's surprising how cathartic whacking a little ball with a stick can be.
 
 

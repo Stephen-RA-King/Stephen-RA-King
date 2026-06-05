@@ -87,19 +87,19 @@ Look on my works, ye Mighty, and despair! (or laugh :laughing: or cry :sob:...)
 
 <a href="https://github.com/Stephen-RA-King/pydough">
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pydough&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+</a>
 
-<a href="https://github.com/Stephen-RA-King/pynamer">
-  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Stephen-RA-King/jinja-genie">
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=jinja-genie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Stephen-RA-King/pynball">
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynball&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+</a>
 
-<a href="https://github.com/Stephen-RA-King/jinja-genie">
-  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=jinja-genie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+<a href="https://github.com/Stephen-RA-King/pynamer">
+  <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=pynamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/Stephen-RA-King/piptools-sync">
   <img align="center" src="https://github-readme-stats-stephen-ra-king.vercel.app/api/pin/?username=Stephen-RA-King&repo=piptools-sync&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

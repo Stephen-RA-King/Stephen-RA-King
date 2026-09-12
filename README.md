@@ -28,13 +28,13 @@
 
 </div>
 
-# Hi there 👋
+# Hey There! 👋
 
 
 Scientist turned network engineer turned developer — my career has taken the scenic route. Armed with BSc. and MSc. 
 degrees in Biochemistry and Chemistry, I once called medical research home before deciding pure science wasn't my final
-destination. A Cisco qualification kicked off my I.T. chapter at BT and beyond, spanning network design, QA Automation
-and DevOps — until Python got its hooks into me. These days I'm a fully committed Software Engineer, and the lab coat is
+destination. Cisco networking kicked off my I.T. chapter at BT and beyond, spanning network design, network protocol analysis and validation,
+QA Automation and DevOps — until Python got its hooks into me. These days I'm a fully committed Software Engineer, and the lab coat is
 firmly retired.
 
 
